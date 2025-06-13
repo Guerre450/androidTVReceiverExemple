@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">androidTVreceiver</string>
-    <string name="sender_app">com.example.guerre450senderapp</string>
+    <string name="sender_app">com.guerre450.testsenderapp1</string>
 </resources>
